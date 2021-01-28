@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">menstrualTracker</string>
+    <string name="checkBoxSpot_text">Spotting</string>
+    <string name="checkBoxLight_text">Light</string>
 </resources>
